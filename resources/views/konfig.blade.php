@@ -262,53 +262,6 @@
           </div>
           </div>
     </div>
-
-    {{-- <div class="tabel1">
-        <table style="width:20%" class="taktif">
-            <tr style="background-color: red">
-                <td colspan="3" class="tname">perangkat aktif</td>
-            </tr>
-            <tr>
-                <td> Perangkat </td>
-                <td> Topic </td>
-            </tr>
-            <tr>
-                <td> Device-1 </td>
-                <td> weather </td>
-            </tr>
-            <tr>
-                <td> Device-2 </td>
-                <td> Temperature </td>
-            </tr>
-            <tr>
-                <td> Device-3 </td>
-                <td> Hypertext </td>
-            </tr></table>
-
-        <table style="width:20%;"  class="tnon">
-            <tr style="background-color: yellow">
-                <td colspan="3" class="tname">perangkat non-aktif</td>
-            </tr>
-                <tr> 
-                    <td> Perangkat </td>
-                    <td> Topic </td>
-                </tr>
-                <tr>
-                    <td> Device-1 </td>
-                    <td> weather </td>
-                </tr>
-                <tr>
-                    <td> Device-2 </td>
-                    <td> Temperature </td>
-                </tr>
-                <tr>
-                    <td> Device-3 </td>
-                    <td> Hypertext </td>
-                </tr></table>
-    
-    </div> --}}
-    
-
         <script>
             function openNav() {
             document.getElementById("mySidenav").style.width = "250px";
